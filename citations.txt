@@ -1,0 +1,6 @@
+DDT model and codes:
+    Song, J., & Bazant, M. Z. (2018). Electrochemical impedance imaging via the distribution of diffusion times. Physical review letters, 120(11), 116001.
+
+SiNW data:
+    Ruffo, R., Hong, S. S., Chan, C. K., Huggins, R. A., & Cui, Y. (2009). Impedance analysis of silicon nanowire lithium ion battery anodes. The Journal of Physical Chemistry C, 113(26), 11390-11398.
+    
